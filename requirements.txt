@@ -1,0 +1,6 @@
+gradio
+pandas
+google-genai
+feedparser
+python-dotenv
+requests
